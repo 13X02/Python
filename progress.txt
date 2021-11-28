@@ -1,0 +1,24 @@
+Day to Day progress
+**********************************************************************************************************************************************************
+Day 1 :- variables to string slicing
+Day 2 :- if statements,logical operators while and for loop
+Day 3 :- nested loops ,break,continue ,pass
+Day 4 :- list,tuples,sets
+Day 5 :- dictionaries,indexing
+Day 6 :- function,return statement ,keyword arguments, nested function calls, variable scope
+Day 7 :- args,kwargs ,string format,random numbers,exception
+Day 8 :- file detection,file read ,write,copy,move ,delete
+Day 9 :- modules,2 mini projects
+Day 10 :- OOPS,class variables
+Day 11 :- inheritance,multilevel&multiple inheritance,method overriding
+Day 12 :- method chaining,super function
+Day 13 :- abstract classes ,objects as arguements,duck typing,walrus operator,function to variables,higher order functions
+Day 14 :- lambda,sort,map,filter,reduce
+Day 15 :- list comprehensions
+Day 16 :- dictionary comprehensions ,if __name__ == '__main__'
+Day 17 :- time module,threading,daemon threads,multiprocessing,GUI windows
+
+
+
+**********************************************************************************************************************************************************
+PS:- Some of these are not consecutive days (Sometimes I am to tired to study :( )Also I have previous experience in two languages so pacing may seem fast
