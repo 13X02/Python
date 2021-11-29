@@ -17,7 +17,7 @@ Day 14 :- lambda,sort,map,filter,reduce
 Day 15 :- list comprehensions
 Day 16 :- dictionary comprehensions ,if __name__ == '__main__'
 Day 17 :- time module,threading,daemon threads,multiprocessing,GUI windows
-
+Day 18 :- GUI label
 
 
 **********************************************************************************************************************************************************
