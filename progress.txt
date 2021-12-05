@@ -20,7 +20,7 @@ Day 17 :- time module,threading,daemon threads,multiprocessing,GUI windows
 Day 18 :- GUI label,GUI button,GUI entrybox,GUI checkbutton
 Day 19 :- GUI radiobutton
 Day 20 :- revised list,tuples
-
+Day 21 :- GUI scale,GUI Listbox,GUI Messagebox(not completed)
 
 **********************************************************************************************************************************************************
 PS:- Some of these are not consecutive days (Sometimes I am to tired to study :( )Also I have previous experience in two languages so pacing may seem fast
